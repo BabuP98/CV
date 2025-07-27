@@ -1,4 +1,4 @@
-  =>  Template Name    : MyFolio - Portfolio HTML Template
+  =>  Template Name    : myFolio - Portfolio HTML Template
 
   =>  Template Link    : https://htmlcodex.com/portfolio-html-template
 
